@@ -1,13 +1,13 @@
 <h2 align="center">
-    ──「 SIESTA ROBOT IS A MODULAR BOT WITH ANIME THEME 」──
+    ──「 MAI SAKURAJIMA ROBOT IS A MODULAR BOT WITH ANIME THEME 」──
 </h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/409f1e6c7e44e7023fe26.jpg">
+  <img src="https://telegra.ph/file/624ae6328da3d6f7aeeae.jpg">
 </p>
 
 <p align="center">
-<a href="https://t.me/Siestaxbot"> <img src="https://github.com/shiinobu/SiestaRobot/blob/siesta/SiestaRobot/resources/siesta-robot.svg" alt="Siesta on Telegram" /> </a></br>
+<a href="https://t.me/Mai_SanxRoBot"> <img src="https://github.com/shiinobu/SiestaRobot/blob/siesta/SiestaRobot/resources/siesta-robot.svg" alt="Siesta on Telegram" /> </a></br>
 <a href="https://github.com/shiinobu/SiestaRobot/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-GPLv3-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://makeapullrequest.com"> <img src="https://img.shields.io/badge/PRs-Welcome-yellow?style=for-the-badge" alt="PRs" /></a></br>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Made%20With-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
