@@ -1,5 +1,5 @@
 <h2 align="center">
-      ──「 MAI SAKURAJIMA ROBOT IS A MODULAR BOT WITH ANIME THEME 」──
+──「 MAI SAKURAJIMA ROBOT IS A MODULAR BOT WITH ANIME THEME 」──
 </h2>
 
 <p align="center">
