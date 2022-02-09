@@ -1,4 +1,4 @@
-hmm<h2 align="center">
+<h2 align="center">
       ──「 MAI SAKURAJIMA ROBOT IS A MODULAR BOT WITH ANIME THEME 」──
 </h2>
 
@@ -21,7 +21,11 @@ hmm<h2 align="center">
 <a href="https://docs.python.org"> <img src="https://img.shields.io/badge/Python-3.10.1-purple?style=for-the-badge&logo=python" alt="Python Version" /> </a>
 </p>
 
-h2 align="center">
+<p align="center">
+<img src="https://telegra.ph/file/fac1bf4564f0837b0d2a8.jpg">
+</p>
+
+<h2 align="center">
 ──「 DEPLOY ON HEROKU 」──
 </h2>
 
@@ -46,4 +50,4 @@ h2 align="center">
 <a href="https://t.me/Light_But_Tmkc"> <img src="https://img.shields.io/badge/Kira-Owner-purple?style=for-the-badge&logo=telegram" alt="Kira on Telegram" /> </a>
 <a href="https://t.me/bajioftoman "> <img src="https://img.shields.io/badge/Baji-Helper-orange?style=for-the-badge&logo=telegram" alt="Baji on Telegram" /> </a> 
 <a href="https://t.me/Heavenly_Blessed "> <img src="https://img.shields.io/badge/Oreki-Helper-orange?style=for-the-badge&logo=telegram" alt="Oreki on Telegram" /> </a>
-<a href="https://t.me/zerohisoka "> <img src="https://img.shields.io/badge/Kazutora-Helper-orange?style=for-the-badge&logo=telegram" alt="Kazutora on Telegram" /> <
+<a href="https://t.me/zerohisoka "> <img src="https://img.shields.io/badge/Kazutora-Helper-orange?style=for-the-badge&logo=telegram" alt="Kazutora on Telegram" /> 
