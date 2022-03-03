@@ -1,13 +1,13 @@
 <h2 align="center">
-  「 MAI SAKURAJIMA ROBOT IS A MODULAR BOT WITH ANIME THEME 」
+  「 MICCHON SHIKIMORI ROBOT IS A MODULAR BOT WITH ANIME THEME 」
 </h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/f2bbc2bf6a2eb5e0dc7ec.jpg">
+  <img src="https://telegra.ph/file/e9b13862b1e5004af0873.jpg">
 </p>
 
 <p align="center">
-<a href="https://t.me/Mai_SanxRoBot"> <img src="https://img.shields.io/badge/Sakurajima-Robot-magenta?style=for-the-badge&logo=github" alt="Ken Kaneki Github" /> </a>
+<a href="https://t.me/"> <img src="https://img.shields.io/badge/Sakurajima-Robot-magenta?style=for-the-badge&logo=github" alt="Ken Kaneki Github" /> </a>
     
 <h2 align="center">
     
