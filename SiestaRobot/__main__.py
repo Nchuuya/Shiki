@@ -83,7 +83,7 @@ def get_readable_time(seconds: int) -> str:
     return ping_time
 
 
-SIESTA_IMG = "https://telegra.ph/file/3b279f8e94ee913a897bb.jpg"
+SIESTA_IMG = "https://telegra.ph/file/e9b13862b1e5004af0873.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
  You can support the project by contacting @saint_foire \
@@ -217,7 +217,7 @@ def start(update: Update, context: CallbackContext):
                         ],
                         [
                             InlineKeyboardButton(
-                                text=gs(chat.id, "add_bot_to_group_button"), url="t.me/Siestaxbot?startgroup=new"),
+                                text=gs(chat.id, "add_bot_to_group_button"), url="t.me/shikimoriXrobot?startgroup=new"),
                         ]
                     ]
                 ),
@@ -417,7 +417,7 @@ def siesta_about_callback(update, context):
                             InlineKeyboardButton(text=gs(chat.id, "inline_button"), switch_inline_query_current_chat=""),
                         ],
                         [
-                            InlineKeyboardButton(text=gs(chat.id, "add_bot_to_group_button"), url="t.me/Siestaxbot?startgroup=new"),
+                            InlineKeyboardButton(text=gs(chat.id, "add_bot_to_group_button"), url="t.me/@hikimoriXrobot?startgroup=new"),
                         ]
                     ]
                 ),
@@ -459,8 +459,8 @@ def siesta_about_callback(update, context):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton(text=gs(chat.id, "support_chat_link_button"), url="t.me/machinaxupport"),
-                        InlineKeyboardButton(text=gs(chat.id, "updates_channel_link_button"), url="https://t.me/machinaxupdate"),
+                        InlineKeyboardButton(text=gs(chat.id, "support_chat_link_button"), url="https://t.me/JinWooXsupport"),
+                        InlineKeyboardButton(text=gs(chat.id, "updates_channel_link_button"), url="https://t.me/JinWooXsupport"),
                     ],
                     [
                         InlineKeyboardButton(text=gs(chat.id, "back_button"), callback_data="siesta_"),
@@ -477,11 +477,11 @@ def siesta_about_callback(update, context):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton(text="Vain", url="https://github.com/shiinobu"),
+                        InlineKeyboardButton(text="Light", url="https://github.com/Light-Sensei"),
                     ],
                     [
-                        InlineKeyboardButton(text="Paul Larsen", url="https://github.com/PaulSonOfLars"),
-                        InlineKeyboardButton(text="TheHamkerCat", url="https://github.com/TheHamkerCat"),
+                        InlineKeyboardButton(text="Paul Larsen", url="https://github.com/zerohisoka"),
+                        InlineKeyboardButton(text="TheHamkerCat", url="https://github.com/Nchuuya"),
                     ],
                     [
                         InlineKeyboardButton(text=gs(chat.id, "back_button"), callback_data="siesta_"),
@@ -528,7 +528,7 @@ def Source_about_callback(update, context):
                             InlineKeyboardButton(text=gs(chat.id, "inline_button"), switch_inline_query_current_chat=""),
                         ],
                         [
-                            InlineKeyboardButton(text=gs(chat.id, "add_bot_to_group_button"), url="t.me/Siestaxbot?startgroup=new"),
+                            InlineKeyboardButton(text=gs(chat.id, "add_bot_to_group_button"), url="t.me/shikimoriXrobot?startgroup=new"),
                         ]
                     ]
                 ),
