@@ -471,7 +471,7 @@ def stats(update, context):
             + "\n*Bot statistics*:\n"
             + "\n".join([mod.__stats__() for mod in STATS])
             + f"\n\n[✦ Support](https://t.me/{SUPPORT_CHAT}) | [✦ Updates](https://t.me/darlinsz)\n\n"
-            + "╘══「 by [Kazutora Hanemiya](https://github.com/Nchuuya) 」\n",
+            + "╘══「 by [Light Yagami 夜神月](https://github.com/itz_light_yagami) 」\n",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
         )
