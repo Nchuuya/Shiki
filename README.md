@@ -42,6 +42,6 @@
 <p align="center">
 
 <a href="https://t.me/Itz_Light_Yagami"> <img src="https://img.shields.io/badge/Kira-Owner-purple?style=for-the-badge&logo=telegram" alt="Kira on Telegram" /> </a>
-<a href="https://t.me/bajioftoman "> <img src="https://img.shields.io/badge/Baji-Helper-orange?style=for-the-badge&logo=telegram" alt="Baji on Telegram" /> </a> 
+<a href="https://t.me/knownbynone "> <img src="https://img.shields.io/badge/Baji-Helper-orange?style=for-the-badge&logo=telegram" alt="Baji on Telegram" /> </a> 
 <a href="https://t.me/Heavenly_Blessed "> <img src="https://img.shields.io/badge/Oreki-Helper-orange?style=for-the-badge&logo=telegram" alt="Oreki on Telegram" /> </a>
 <a href="https://t.me/zerohisoka "> <img src="https://img.shields.io/badge/Kazutora-Helper-orange?style=for-the-badge&logo=telegram" alt="Kazutora on Telegram" /> 
