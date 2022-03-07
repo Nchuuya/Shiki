@@ -19,12 +19,6 @@
 <a href="https://python-telegram-bot.org"> <img src="https://img.shields.io/badge/PTB-13.10-white?style=for-the-badge&logo=github" alt="Python Telegram Bot" /> </a>
 <a href="https://docs.telethon.dev"> <img src="https://img.shields.io/badge/Telethon-1.23.0-red?style=for-the-badge&logo=github" alt="Telethon" /> </a>
 <a href="https://docs.python.org"> <img src="https://img.shields.io/badge/Python-3.10.1-purple?style=for-the-badge&logo=python" alt="Python Version" /> </a>
-</p>
-
-<p align="center">
-<img src="https://telegra.ph/file/fac1bf4564f0837b0d2a8.jpg">
-</p>
-
 <h2 align="center">
 ──「 DEPLOY ON HEROKU 」──
 </h2>
